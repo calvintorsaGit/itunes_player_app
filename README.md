@@ -4,7 +4,26 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+music player app using itunes API
+
+3rd party library :
+    - dio (network)
+    - video_player (music player)
+
+Design Pattern:
+    - bloC
+    
+Framework Version:
+  - Flutter :2.8.1
+  - Dart : 2.15.1
+  - Android studio : 4.1
+  - gradle : 4.1.0
+
+
+ScreenShot:
+
+![Screenshot](https://github.com/calvintorsaGit/itunes_player_app/blob/master/pict.jpg)
+
 
 A few resources to get you started if this is your first Flutter project:
 
